@@ -3,6 +3,6 @@ This notebook's objective is to use Python-based machine learning and data scien
 
 The machine learning models to be used include:
 
-Linear Regression
-Random Forest Regression
-Decision Tree Regression
+    * Linear Regression
+    * Random Forest Regression
+    * Decision Tree Regression
